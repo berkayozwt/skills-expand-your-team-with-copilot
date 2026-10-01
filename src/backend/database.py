@@ -122,13 +122,13 @@ initial_activities = {
     },
     "Manga Maniacs": {
         "description": "Step into the pages of Japanese manga, discover unforgettable heroes and villains, and share the stories that keep you turning the page.",
-        "schedule": "Tuesdays at 7pm",
+        "schedule": "Tuesdays at 5pm",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "19:00"
+            "start_time": "17:00",
+            "end_time": "17:00"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     },
     "Debate Team": {
